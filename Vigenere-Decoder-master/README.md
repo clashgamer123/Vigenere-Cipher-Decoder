@@ -44,7 +44,7 @@
    \ \/ /| |/ _  |/ _  )  _ \ / _  )/ ___) _  )
     \  / | ( ( | ( (/ /| | | ( (/ /| |  ( (/ /
      \/  |_|\_|| |\____)_| |_|\____)_|   \____)
-           (_____|                @htr-tech
+           (_____|                
 
   Input Cipher Text: RymJHS{XQ_MOWF_TTXU_DBHQBIZR?}
   Known/Flag Format: CatCTF
