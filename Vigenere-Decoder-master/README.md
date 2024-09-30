@@ -31,11 +31,7 @@
 ### ~$ `cat usage.txt`:
 
 - Simply **clone the repository**. Only python should be installed in your system.
-  ```bash
-  $ git clone https://github.com/htr-tech/Vigenere
-  $ cd Vigenere
-  $ python vigenere.py
-  ```
+
   > Ouput (Interactive Menu)
   ```
    _    _ _
